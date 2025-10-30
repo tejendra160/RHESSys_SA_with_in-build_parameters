@@ -1,9 +1,10 @@
 # RHESSys_SA_with_in-build_parameters
 
-                                             Sensitivity Analysis for RHESSys Model Parameters
+                Sensitivity Analysis for RHESSys Model Parameters
+                        Using both Streamflow and LAI 
                                                   
-                                                          Author: Tejendra Kandel
-                                                  Affiliation: University of Virginia
+                          Author: Tejendra Kandel
+                  Affiliation: University of Virginia
 
 Overview
 
