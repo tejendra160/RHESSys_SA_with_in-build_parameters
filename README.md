@@ -1,9 +1,9 @@
 # RHESSys_SA_with_in-build_parameters
 
-     Sensitivity Analysis for RHESSys Model Parameters
-
-        Author: Tejendra Kandel
-     Affiliation: University of Virginia
+                                             Sensitivity Analysis for RHESSys Model Parameters
+                                                  
+                                                          Author: Tejendra Kandel
+                                                  Affiliation: University of Virginia
 
 Overview
 
